@@ -318,6 +318,9 @@
 | [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium |
 | [TeslaWraps](https://teslawraps.design) | Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit… |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … |
+| [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … |
 | [magicstudio](https://magicstudio.com/?ref=awe50meAI) |     Powered by AI, Created by You  |
 | [pfpmaker](https://pfpmaker.com/?ref=awe50meAI) |     Make your new profile picture with AI  |
 | [uizard](https://uizard.io/?ref=awe50meAI) |     Uizard | App, Web, & UI Design Made Easy | Powered By AI  |
